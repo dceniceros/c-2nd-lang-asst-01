@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, MSUD!\n");
+    printf("Hello, Metro!\n");
 
     return 0;
 }
